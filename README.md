@@ -1,3 +1,8 @@
+## Starter Kit for Next.js 10 + TypeScript + Tailwind + SASS Modules + Prettier 
+- Next.js 10 with prettier pre-commit hook
+- TypeScript with `allowJs: true` for `.tsx .jsx` coexistence
+- Tailwind with CSS Modules + `.scss` enabled
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
