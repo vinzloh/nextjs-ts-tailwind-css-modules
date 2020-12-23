@@ -1,4 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "css.validate": false
+  "css.validate": false,
+  "scss.validate": false
 }
