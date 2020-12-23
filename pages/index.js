@@ -13,6 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <button className="bg-gray-200 p-4">click</button>
 
         <p className={styles.description}>
           Get started by editing{' '}
