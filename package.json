@@ -27,7 +27,7 @@
     "typescript": "^4.1.3"
   },
   "engines": {
-    "node": ">=15 <16"
+    "node": "12.x"
   },
   "browserslist": [
     "defaults",
