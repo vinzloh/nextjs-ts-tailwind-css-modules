@@ -1,7 +1,8 @@
-## Starter Kit for Next.js 10 + TypeScript + Tailwind + SASS Modules + Prettier 
+## Starter Kit for Next.js 10 + TypeScript + Tailwind + SASS Modules + Prettier + ESLint for React Hooks
 - Next.js 10 with prettier pre-commit hook
 - TypeScript with `allowJs: true` for `.tsx .jsx` coexistence
 - Tailwind with CSS Modules + `.scss` enabled
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) enforces the [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html).
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
